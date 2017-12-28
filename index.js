@@ -4,7 +4,7 @@ function destructivelyAppendKitten(name) {}
 function destructivelyPrependKitten(name) {}
 function destructivelyRemoveLastKitten() {}
 function destructivelyRemoveFirstKitten() {} 
-function  {}
-function  {}
+function appendKitten(name) {}
+function prependKitten(name) {}
 function  {}
 function  {}
